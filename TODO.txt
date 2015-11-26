@@ -13,6 +13,9 @@ tomcat 7
 Couleurs de l'application :
 Rouge sur fond vert
 
+Application lourde :
+Technologie swing 
+
 Technologies web :
 - Servlet & JSP
 - Wicket
